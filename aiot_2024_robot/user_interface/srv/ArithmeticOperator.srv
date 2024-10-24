@@ -1,0 +1,9 @@
+int8 PLUS = 1
+int8 MINUS = 1
+int8 MULTIPLY = 3
+int8 DIVISION = 4
+
+
+int8 arithmentic_operator
+
+float32 arithmentic_result
